@@ -1,0 +1,235 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lucia\\OneDrive\\Documentos\\APIs\\API2\\APIAgendamentos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1E9380-E2E4-4C73-A7BB-74AFEB4FB0E8}|APIAgendamentos\\APIAgendamentos.csproj|c:\\users\\lucia\\onedrive\\documentos\\apis\\api2\\apiagendamentos\\apiagendamentos\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE1E9380-E2E4-4C73-A7BB-74AFEB4FB0E8}|APIAgendamentos\\APIAgendamentos.csproj|solutionrelative:apiagendamentos\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1E9380-E2E4-4C73-A7BB-74AFEB4FB0E8}|APIAgendamentos\\APIAgendamentos.csproj|c:\\users\\lucia\\onedrive\\documentos\\apis\\api2\\apiagendamentos\\apiagendamentos\\models\\agendamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE1E9380-E2E4-4C73-A7BB-74AFEB4FB0E8}|APIAgendamentos\\APIAgendamentos.csproj|solutionrelative:apiagendamentos\\models\\agendamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1E9380-E2E4-4C73-A7BB-74AFEB4FB0E8}|APIAgendamentos\\APIAgendamentos.csproj|c:\\users\\lucia\\onedrive\\documentos\\apis\\api2\\apiagendamentos\\apiagendamentos\\models\\formularioagendamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE1E9380-E2E4-4C73-A7BB-74AFEB4FB0E8}|APIAgendamentos\\APIAgendamentos.csproj|solutionrelative:apiagendamentos\\models\\formularioagendamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1E9380-E2E4-4C73-A7BB-74AFEB4FB0E8}|APIAgendamentos\\APIAgendamentos.csproj|c:\\users\\lucia\\onedrive\\documentos\\apis\\api2\\apiagendamentos\\apiagendamentos\\models\\servico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE1E9380-E2E4-4C73-A7BB-74AFEB4FB0E8}|APIAgendamentos\\APIAgendamentos.csproj|solutionrelative:apiagendamentos\\models\\servico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1E9380-E2E4-4C73-A7BB-74AFEB4FB0E8}|APIAgendamentos\\APIAgendamentos.csproj|c:\\users\\lucia\\onedrive\\documentos\\apis\\api2\\apiagendamentos\\apiagendamentos\\models\\profissional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE1E9380-E2E4-4C73-A7BB-74AFEB4FB0E8}|APIAgendamentos\\APIAgendamentos.csproj|solutionrelative:apiagendamentos\\models\\profissional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1E9380-E2E4-4C73-A7BB-74AFEB4FB0E8}|APIAgendamentos\\APIAgendamentos.csproj|c:\\users\\lucia\\onedrive\\documentos\\apis\\api2\\apiagendamentos\\apiagendamentos\\services\\agendamentoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE1E9380-E2E4-4C73-A7BB-74AFEB4FB0E8}|APIAgendamentos\\APIAgendamentos.csproj|solutionrelative:apiagendamentos\\services\\agendamentoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1E9380-E2E4-4C73-A7BB-74AFEB4FB0E8}|APIAgendamentos\\APIAgendamentos.csproj|c:\\users\\lucia\\onedrive\\documentos\\apis\\api2\\apiagendamentos\\apiagendamentos\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CE1E9380-E2E4-4C73-A7BB-74AFEB4FB0E8}|APIAgendamentos\\APIAgendamentos.csproj|solutionrelative:apiagendamentos\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1E9380-E2E4-4C73-A7BB-74AFEB4FB0E8}|APIAgendamentos\\APIAgendamentos.csproj|C:\\Users\\Lucia\\OneDrive\\Documentos\\APIs\\API2\\APIAgendamentos\\apiagendamentos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CE1E9380-E2E4-4C73-A7BB-74AFEB4FB0E8}|APIAgendamentos\\APIAgendamentos.csproj|solutionrelative:apiagendamentos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1E9380-E2E4-4C73-A7BB-74AFEB4FB0E8}|APIAgendamentos\\APIAgendamentos.csproj|C:\\Users\\Lucia\\OneDrive\\Documentos\\APIs\\API2\\APIAgendamentos\\apiagendamentos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE1E9380-E2E4-4C73-A7BB-74AFEB4FB0E8}|APIAgendamentos\\APIAgendamentos.csproj|solutionrelative:apiagendamentos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1E9380-E2E4-4C73-A7BB-74AFEB4FB0E8}|APIAgendamentos\\APIAgendamentos.csproj|C:\\Users\\Lucia\\OneDrive\\Documentos\\APIs\\API2\\APIAgendamentos\\apiagendamentos\\controllers\\agendamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE1E9380-E2E4-4C73-A7BB-74AFEB4FB0E8}|APIAgendamentos\\APIAgendamentos.csproj|solutionrelative:apiagendamentos\\controllers\\agendamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1E9380-E2E4-4C73-A7BB-74AFEB4FB0E8}|APIAgendamentos\\APIAgendamentos.csproj|C:\\Users\\Lucia\\OneDrive\\Documentos\\APIs\\API2\\APIAgendamentos\\apiagendamentos\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE1E9380-E2E4-4C73-A7BB-74AFEB4FB0E8}|APIAgendamentos\\APIAgendamentos.csproj|solutionrelative:apiagendamentos\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1E9380-E2E4-4C73-A7BB-74AFEB4FB0E8}|APIAgendamentos\\APIAgendamentos.csproj|C:\\Users\\Lucia\\OneDrive\\Documentos\\APIs\\API2\\APIAgendamentos\\apiagendamentos\\logger\\loghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE1E9380-E2E4-4C73-A7BB-74AFEB4FB0E8}|APIAgendamentos\\APIAgendamentos.csproj|solutionrelative:apiagendamentos\\logger\\loghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1E9380-E2E4-4C73-A7BB-74AFEB4FB0E8}|APIAgendamentos\\APIAgendamentos.csproj|C:\\Users\\Lucia\\OneDrive\\Documentos\\APIs\\API2\\APIAgendamentos\\apiagendamentos\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CE1E9380-E2E4-4C73-A7BB-74AFEB4FB0E8}|APIAgendamentos\\APIAgendamentos.csproj|solutionrelative:apiagendamentos\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormularioAgendamento.cs",
+              "DocumentMoniker": "C:\\Users\\Lucia\\OneDrive\\Documentos\\APIs\\API2\\APIAgendamentos\\APIAgendamentos\\Models\\FormularioAgendamento.cs",
+              "RelativeDocumentMoniker": "APIAgendamentos\\Models\\FormularioAgendamento.cs",
+              "ToolTip": "C:\\Users\\Lucia\\OneDrive\\Documentos\\APIs\\API2\\APIAgendamentos\\APIAgendamentos\\Models\\FormularioAgendamento.cs",
+              "RelativeToolTip": "APIAgendamentos\\Models\\FormularioAgendamento.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T19:08:15.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Lucia\\OneDrive\\Documentos\\APIs\\API2\\APIAgendamentos\\APIAgendamentos\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "APIAgendamentos\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Lucia\\OneDrive\\Documentos\\APIs\\API2\\APIAgendamentos\\APIAgendamentos\\Models\\Cliente.cs",
+              "RelativeToolTip": "APIAgendamentos\\Models\\Cliente.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T16:59:49.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Servico.cs",
+              "DocumentMoniker": "C:\\Users\\Lucia\\OneDrive\\Documentos\\APIs\\API2\\APIAgendamentos\\APIAgendamentos\\Models\\Servico.cs",
+              "RelativeDocumentMoniker": "APIAgendamentos\\Models\\Servico.cs",
+              "ToolTip": "C:\\Users\\Lucia\\OneDrive\\Documentos\\APIs\\API2\\APIAgendamentos\\APIAgendamentos\\Models\\Servico.cs",
+              "RelativeToolTip": "APIAgendamentos\\Models\\Servico.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T16:59:14.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Profissional.cs",
+              "DocumentMoniker": "C:\\Users\\Lucia\\OneDrive\\Documentos\\APIs\\API2\\APIAgendamentos\\APIAgendamentos\\Models\\Profissional.cs",
+              "RelativeDocumentMoniker": "APIAgendamentos\\Models\\Profissional.cs",
+              "ToolTip": "C:\\Users\\Lucia\\OneDrive\\Documentos\\APIs\\API2\\APIAgendamentos\\APIAgendamentos\\Models\\Profissional.cs",
+              "RelativeToolTip": "APIAgendamentos\\Models\\Profissional.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T16:58:17.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Agendamento.cs",
+              "DocumentMoniker": "C:\\Users\\Lucia\\OneDrive\\Documentos\\APIs\\API2\\APIAgendamentos\\APIAgendamentos\\Models\\Agendamento.cs",
+              "RelativeDocumentMoniker": "APIAgendamentos\\Models\\Agendamento.cs",
+              "ToolTip": "C:\\Users\\Lucia\\OneDrive\\Documentos\\APIs\\API2\\APIAgendamentos\\APIAgendamentos\\Models\\Agendamento.cs",
+              "RelativeToolTip": "APIAgendamentos\\Models\\Agendamento.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T16:53:49.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AgendamentoService.cs",
+              "DocumentMoniker": "C:\\Users\\Lucia\\OneDrive\\Documentos\\APIs\\API2\\APIAgendamentos\\APIAgendamentos\\Services\\AgendamentoService.cs",
+              "RelativeDocumentMoniker": "APIAgendamentos\\Services\\AgendamentoService.cs",
+              "ToolTip": "C:\\Users\\Lucia\\OneDrive\\Documentos\\APIs\\API2\\APIAgendamentos\\APIAgendamentos\\Services\\AgendamentoService.cs*",
+              "RelativeToolTip": "APIAgendamentos\\Services\\AgendamentoService.cs*",
+              "ViewState": "AQIAACEAAAAAAAAAAAAcwD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T16:49:37.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Lucia\\OneDrive\\Documentos\\APIs\\API2\\APIAgendamentos\\APIAgendamentos\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "APIAgendamentos\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Lucia\\OneDrive\\Documentos\\APIs\\API2\\APIAgendamentos\\APIAgendamentos\\appsettings.Development.json",
+              "RelativeToolTip": "APIAgendamentos\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-04T16:38:35.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AgendamentoController.cs",
+              "DocumentMoniker": "C:\\Users\\Lucia\\OneDrive\\Documentos\\APIs\\API2\\APIAgendamentos\\APIAgendamentos\\Controllers\\AgendamentoController.cs",
+              "RelativeDocumentMoniker": "APIAgendamentos\\Controllers\\AgendamentoController.cs",
+              "ToolTip": "C:\\Users\\Lucia\\OneDrive\\Documentos\\APIs\\API2\\APIAgendamentos\\APIAgendamentos\\Controllers\\AgendamentoController.cs",
+              "RelativeToolTip": "APIAgendamentos\\Controllers\\AgendamentoController.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAgwFYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T16:49:16.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lucia\\OneDrive\\Documentos\\APIs\\API2\\APIAgendamentos\\APIAgendamentos\\Program.cs",
+              "RelativeDocumentMoniker": "APIAgendamentos\\Program.cs",
+              "ToolTip": "C:\\Users\\Lucia\\OneDrive\\Documentos\\APIs\\API2\\APIAgendamentos\\APIAgendamentos\\Program.cs",
+              "RelativeToolTip": "APIAgendamentos\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T23:50:05.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Lucia\\OneDrive\\Documentos\\APIs\\API2\\APIAgendamentos\\APIAgendamentos\\appsettings.json",
+              "RelativeDocumentMoniker": "APIAgendamentos\\appsettings.json",
+              "ToolTip": "C:\\Users\\Lucia\\OneDrive\\Documentos\\APIs\\API2\\APIAgendamentos\\APIAgendamentos\\appsettings.json",
+              "RelativeToolTip": "APIAgendamentos\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-30T23:25:16.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LogHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Lucia\\OneDrive\\Documentos\\APIs\\API2\\APIAgendamentos\\APIAgendamentos\\Logger\\LogHelper.cs",
+              "RelativeDocumentMoniker": "APIAgendamentos\\Logger\\LogHelper.cs",
+              "ToolTip": "C:\\Users\\Lucia\\OneDrive\\Documentos\\APIs\\API2\\APIAgendamentos\\APIAgendamentos\\Logger\\LogHelper.cs",
+              "RelativeToolTip": "APIAgendamentos\\Logger\\LogHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T00:01:15.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Lucia\\OneDrive\\Documentos\\APIs\\API2\\APIAgendamentos\\APIAgendamentos\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "APIAgendamentos\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Lucia\\OneDrive\\Documentos\\APIs\\API2\\APIAgendamentos\\APIAgendamentos\\Properties\\launchSettings.json",
+              "RelativeToolTip": "APIAgendamentos\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAiwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-30T00:49:09.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Lucia\\OneDrive\\Documentos\\APIs\\API2\\APIAgendamentos\\APIAgendamentos\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "APIAgendamentos\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Lucia\\OneDrive\\Documentos\\APIs\\API2\\APIAgendamentos\\APIAgendamentos\\Controllers\\UserController.cs",
+              "RelativeToolTip": "APIAgendamentos\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAcwHYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T23:53:17.252Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Lucia\\OneDrive\\Documentos\\APIs\\Apis 2024\\APIAgendamentos\\APIAgendamentos\\wwwroot\\Login.html",
+      "PackagePath": "staticwebassets\\Login.html"
+    },
+    {
+      "Id": "C:\\Users\\Lucia\\OneDrive\\Documentos\\APIs\\Apis 2024\\APIAgendamentos\\APIAgendamentos\\wwwroot\\register.html",
+      "PackagePath": "staticwebassets\\register.html"
+    },
+    {
+      "Id": "C:\\Users\\Lucia\\OneDrive\\Documentos\\APIs\\Apis 2024\\APIAgendamentos\\APIAgendamentos\\wwwroot\\script.js",
+      "PackagePath": "staticwebassets\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\Lucia\\OneDrive\\Documentos\\APIs\\Apis 2024\\APIAgendamentos\\APIAgendamentos\\wwwroot\\style.css",
+      "PackagePath": "staticwebassets\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Lucia\\OneDrive\\Documentos\\APIs\\Apis 2024\\APIAgendamentos\\APIAgendamentos\\wwwroot\\teste.html",
+      "PackagePath": "staticwebassets\\teste.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.APIAgendamentos.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.APIAgendamentos.props",
+      "PackagePath": "build\\APIAgendamentos.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.APIAgendamentos.props",
+      "PackagePath": "buildMultiTargeting\\APIAgendamentos.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.APIAgendamentos.props",
+      "PackagePath": "buildTransitive\\APIAgendamentos.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
